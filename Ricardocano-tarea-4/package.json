@@ -1,0 +1,17 @@
+{
+  "name": "ricardocano-tarea-4",
+  "version": "1.2.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Cano",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
