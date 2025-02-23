@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "audifonos",
+    "price": 89.99,
+    "category": "Electronica"
+  },
+  {
+    "id": 2,
+    "name": "escritorio",
+    "price": 70.99,
+    "category": "Muebles"
+  },
+  {
+    "id": 3,
+    "name": "teclado",
+    "price": 14.99,
+    "category": "Electronica"
+  },
+  {
+    "id": "6d03df7c-3fb5-4f78-a00d-fe4779d2529d",
+    "name": "laptop",
+    "price": 209.99,
+    "category": "Electronica"
+  }
+]
